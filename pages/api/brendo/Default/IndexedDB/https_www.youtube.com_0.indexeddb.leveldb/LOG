@@ -1,0 +1,15 @@
+2022/11/25-06:42:21.381 13c4b Reusing MANIFEST /Users/wikiwoo/Downloads/envatoLogin/brendo/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/25-06:42:21.382 13c4b Recovering log #7
+2022/11/25-06:42:21.382 13c4b Reusing old log /Users/wikiwoo/Downloads/envatoLogin/brendo/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2022/11/25-06:42:30.604 e303 Level-0 table #12: started
+2022/11/25-06:42:30.614 e303 Level-0 table #12: 5739 bytes OK
+2022/11/25-06:42:30.625 e303 Delete type=0 #7
+2022/11/25-06:42:30.626 e303 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/11/25-06:42:30.626 e303 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\xd7\xab\xe2JxB\x00\x03\x00\x00\x00\x00\x00\x00\x14@' @ 234 : 1
+2022/11/25-06:42:30.626 e303 Compacting 1@1 + 1@2 files
+2022/11/25-06:42:30.632 e303 Generated table #13@1: 38 keys, 1032 bytes
+2022/11/25-06:42:30.632 e303 Compacted 1@1 + 1@2 files => 1032 bytes
+2022/11/25-06:42:30.644 e303 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/25-06:42:30.646 e303 Delete type=2 #12
+2022/11/25-06:42:30.647 e303 Delete type=2 #9
+2022/11/25-06:42:30.649 e303 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\xd7\xab\xe2JxB\x00\x03\x00\x00\x00\x00\x00\x00\x14@' @ 234 : 1 .. (end); will stop at (end)

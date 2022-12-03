@@ -1,0 +1,15 @@
+2022/11/23-12:24:18.758 9233 Reusing MANIFEST /Users/wikiwoo/Downloads/app/brendo/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/23-12:24:18.759 9233 Recovering log #4
+2022/11/23-12:24:18.759 9233 Reusing old log /Users/wikiwoo/Downloads/app/brendo/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2022/11/23-12:24:43.966 b907 Level-0 table #8: started
+2022/11/23-12:24:43.974 b907 Level-0 table #8: 10436 bytes OK
+2022/11/23-12:24:43.983 b907 Delete type=0 #4
+2022/11/23-12:24:43.984 b907 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/11/23-12:24:43.984 b907 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x00XuQJxB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 171 : 1
+2022/11/23-12:24:43.984 b907 Compacting 1@1 + 1@2 files
+2022/11/23-12:24:43.989 b907 Generated table #9@1: 39 keys, 1055 bytes
+2022/11/23-12:24:43.989 b907 Compacted 1@1 + 1@2 files => 1055 bytes
+2022/11/23-12:24:43.999 b907 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/23-12:24:43.999 b907 Delete type=2 #5
+2022/11/23-12:24:43.999 b907 Delete type=2 #8
+2022/11/23-12:24:44.000 b907 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x00XuQJxB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 171 : 1 .. (end); will stop at (end)

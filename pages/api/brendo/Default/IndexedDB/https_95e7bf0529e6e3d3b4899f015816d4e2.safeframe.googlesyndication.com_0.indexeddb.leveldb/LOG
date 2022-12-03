@@ -1,0 +1,6 @@
+2022/11/23-12:24:00.113 212b3 Creating DB /Users/wikiwoo/Downloads/app/brendo/Default/IndexedDB/https_95e7bf0529e6e3d3b4899f015816d4e2.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2022/11/23-12:24:00.130 212b3 Reusing MANIFEST /Users/wikiwoo/Downloads/app/brendo/Default/IndexedDB/https_95e7bf0529e6e3d3b4899f015816d4e2.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/23-12:24:17.804 9233 Level-0 table #5: started
+2022/11/23-12:24:17.812 9233 Level-0 table #5: 439 bytes OK
+2022/11/23-12:24:17.823 9233 Delete type=0 #3
+2022/11/23-12:24:17.825 9233 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
